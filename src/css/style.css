@@ -1,7 +1,4 @@
-/* reset css */
-h1, h2, h3 ,h4, h4, h6
+:root
 {
-	margin: 0;
-	padding: 0;
-	border:0;
-}
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}	
